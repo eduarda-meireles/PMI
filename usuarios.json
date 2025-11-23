@@ -1,14 +1,5 @@
 [
     {
-        "nome": "Maria Eduarda Meireles Ferreira",
-        "login": "meirelesduda",
-        "senha": "070506mei@",
-        "id": 1,
-        "tel": "11981130970",
-        "livrosemprestados": [],
-        "tipo": "Usuário"
-    },
-    {
         "nome": "Administrador",
         "login": "admin2025",
         "senha": "admin1379@",
@@ -17,4 +8,5 @@
         "livrosemprestados": [],
         "tipo": "Administrador"
     }
+
 ]
