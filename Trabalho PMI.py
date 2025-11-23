@@ -469,3 +469,4 @@ def menu_principal(acess):
             break
         else:
             print("Opção inválida. Tente novamente.")
+menu_principal(acess)
